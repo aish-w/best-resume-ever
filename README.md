@@ -1,2 +1,2 @@
 # best-resume-ever
-my resume(sooo good)
+This is my resume i made using HTML,CSS only.
